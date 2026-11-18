@@ -10,7 +10,7 @@ The main gameplay loop is:
 
 **Dive → Hunt → Collect → Return to Boat → Sell → Upgrade → Repeat**
 
-The longer the player stays underwater and the more they collect, the greater the potential reward—but also the greater the risk. The longer you spend on a dive the more XP you get. This will prevent people from catching one fish and trying to cash out asap. Encourage a better balance of longer dives and faster sells.
+The longer the player stays underwater and the more they collect, the greater the potential reward—but also the greater the risk. The longer you spend on a dive the more XP you get. This will prevent people from catching one fish and trying to cash out asap. Also increase the odds of rarer/more expensive fish spawning the longer the dive. Encourage a better balance of longer dives and faster sells.
 
 ---
 
