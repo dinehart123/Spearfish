@@ -1,4 +1,4 @@
-# Spearfishing Game
+# Spearfish
 
 ## Overview
 
