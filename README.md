@@ -33,6 +33,8 @@ Catch or kill fish and collect anything valuable found underwater.
 
 Different fish have different values based on their rarity and difficulty.
 
+No crosshair to make it more immersive and more difficult. 
+
 ### 4. Decide When to Return
 The player must decide whether to:
 
