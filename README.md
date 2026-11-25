@@ -364,6 +364,6 @@ Since the initial version needs to remain achievable, development should focus o
 
 # Team Spearfish
 ### Members:
-Ethan Dinehart: environment & ambience
-Ryan Theliji: player
-Pranav : enemies
+- Ethan Dinehart: environment & ambience
+- Ryan Theliji: player
+- Pranav : enemies
