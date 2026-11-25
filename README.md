@@ -366,4 +366,4 @@ Since the initial version needs to remain achievable, development should focus o
 ### Members:
 - Ethan Dinehart: environment & ambience
 - Ryan Theliji: player & gameloop
-- Pranav : enemies & ai
+- Pranav Srinivasan: enemies & ai
