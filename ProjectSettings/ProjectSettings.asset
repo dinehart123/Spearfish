@@ -834,7 +834,12 @@ PlayerSettings:
   webWasm2023: 1
   webEnableSubmoduleStrippingCompatibility: 0
   webProgressiveAssetLoading: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: HAW_SHORELINE;HAW_SHORELINE_1_0
+    Server: HAW_SHORELINE;HAW_SHORELINE_1_0
+    Standalone: HAW_SHORELINE;HAW_SHORELINE_1_0
+    WebGL: HAW_SHORELINE;HAW_SHORELINE_1_0
+    iPhone: HAW_SHORELINE;HAW_SHORELINE_1_0
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
