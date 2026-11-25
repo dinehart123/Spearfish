@@ -359,3 +359,11 @@ Since the initial version needs to remain achievable, development should focus o
 - Advanced scuba equipment
 - Weather/ocean conditions
 - Large variety of rare creatures
+  
+---
+
+### Team Spearfish
+# Members:
+Ethan Dinehart: environment & ambience
+Ryan Theliji: player
+Pranav : enemies
